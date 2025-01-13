@@ -142,7 +142,7 @@ st.markdown(
 
     <div style="text-align: center; color: #aaa;">
 
-        Projet développé dans le cadre d'un exercice
+        Projet
 
     </div>
 
