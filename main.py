@@ -1,6 +1,6 @@
 import streamlit as st
 
-from prediction_helper import predict  # Assurez-vous que cela est correctement lié à votre fichier prediction_helper.py
+from aide_prediction import predict  
 
 # Configuration de la page
 
